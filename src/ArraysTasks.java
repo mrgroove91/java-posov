@@ -58,6 +58,7 @@ class ArraysTasks {
     }
     public static void main(String[] args){
         //System.out.println(Arrays.toString(even(5)));
+
         //System.out.println(allSimilar(new int[]{1,2}));
         //System.out.println(hasSimilar(new int[]{2}));
         //System.out.println(mean(new int[]{3,4,5}));
