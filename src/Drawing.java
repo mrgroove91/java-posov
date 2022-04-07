@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Drawing {
+public class Drawing implements Printable{
 
     char[][] canvas;
 
